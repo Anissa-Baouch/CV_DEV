@@ -1,0 +1,33 @@
+body {
+    background-image: url("../Images/milky-way-2695569_1920.jpg");
+    /*background-repeat: no-repeat;
+    background-size: cover;*/
+
+}
+
+header
+{
+    background-image:url("../Images/developpement-web.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+footer{
+    text-decoration: none;
+}
+
+a:link{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+[id^="ancre"]{
+    font-size: large;
+    text-decoration: none;
+    color: white;
+}
